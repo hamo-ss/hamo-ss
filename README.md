@@ -4,7 +4,8 @@
 - 原　宗輝(はら　もとき)
 - 1992年11月1日生まれ(ポッキーの日じゃないよ)
 - 長野県出身
-- SNSへのリンクはした
+- SNSへのリンクはしたです
+- 2021年7月からDMM WEBCAMPでエンジニアの学習に取り組んでいます
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamo-ss&theme=monokai)
 

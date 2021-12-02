@@ -5,19 +5,16 @@
 - 1992年11月1日生まれ(ポッキーの日じゃないよ)
 - 長野県出身
 - SNSへのリンクはしたです
-- 2021年7月からDMM WEBCAMPでエンジニアの学習に取り組んでいます
 
 <a href="https://github.com/hamo-ss/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamo-ss&theme=cobalt" />
 </a>
-<a href="https://github.com/hamo-ss/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=hamo-ss&show_icons=true&theme=cobalt" />
-</a>
 
 <!-- 現在隠し中 -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamo-ss&theme=monokai) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hamo-ss)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=hamo-ss&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- <a href="https://github.com/hamo-ss/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamo-ss&show_icons=true&theme=cobalt" />
+</a> -->
 
 ## すきなこと
 - 新しい知識をえること

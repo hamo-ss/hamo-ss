@@ -5,11 +5,11 @@
 - 1992年11月1日生まれ(ポッキーの日じゃないよ)
 - 長野県出身
 - SNSへのリンクはしたです
-
+<!--
 <a href="https://github.com/hamo-ss/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamo-ss&theme=cobalt" />
 </a>
-
+-->
 <!-- 現在隠し中 -->
 <!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamo-ss&theme=monokai) -->
 <!-- <a href="https://github.com/hamo-ss/github-readme-stats">
